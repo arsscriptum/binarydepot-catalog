@@ -1,10 +1,44 @@
 [
   {
     "PackageId": "47110b44-0369-4454-8329-72af4c01c4e1",
-    "IndexUrl": "http://arsscriptum.github.io/binarydepot-catalog/entries/bmw-advanced-tools.json"
+    "IndexUrl": "http://arsscriptum.github.io/binarydepot-catalog/entries/bmw-advanced-tools.json",
+    "DisplayName": "BMW Advanced Tools",
+    "Name": "BMW_Advanced_Tools_1.0.0_Install.msi",
+    "Hash": "85288998C09D1ABFCAC4BDD9BDC8AF539F08A16CB1F6931AB60D3C99231289DC",
+    "HashAlgorithm": "SHA256",
+    "Size": 232517916,
+    "Uploaded": 1755746108,
+    "Author": "Guillaume <guillaumeplante.qc@gmail.com>",
+    "Details": "BMW Standard Tools (also known as BMW Advanced Tools), a powerful suite of diagnostic and coding utilities used primarily with E-series BMWs.",
+    "Licence": "MIT",
+    "Version": "1.0.0",
+    "Encrypted": true,
+    "EncryptionAlgorithm": "AES256",
+    "NumParts": 40,
+    "TotalDownloads": 2397,
+    "Tags": "Latest|Cars,BMW",
+    "Category": "Hobby",
+    "Score": "89%"
   },
   {
     "PackageId": "d7e65cf6-f881-4056-b258-ab906118c20f",
-    "IndexUrl": "http://arsscriptum.github.io/binarydepot-catalog/entries/bluedriver.json"
+    "IndexUrl": "http://arsscriptum.github.io/binarydepot-catalog/entries/bluedriver.json",
+    "DisplayName": "Blue Driver App Test",
+    "Name": "tets.0.0_Install.msi",
+    "Hash": "85288998AAAD1ABFCAC4BDD9BDC333339F08A16CB1F6931AB60D3C99231289DC",
+    "HashAlgorithm": "SHA256",
+    "Size": 4425179,
+    "Uploaded": 1351126108,
+    "Author": "Guillaume <guillaumeplante.qc@gmail.com>",
+    "Details": "First",
+    "Licence": "test",
+    "Version": "1.0.0",
+    "Encrypted": true,
+    "EncryptionAlgorithm": "AES256",
+    "NumParts": 10,
+    "TotalDownloads": 1327,
+    "Tags": "Latest|Cars,BMW",
+    "Category": "Hobby",
+    "Score": "19%"
   }
 ]
