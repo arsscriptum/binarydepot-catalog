@@ -1,27 +1,27 @@
 {
-    "PackageId": "47110b44-0369-4454-8329-72af4c01c4e1",
-    "IndexUrl": "http://arsscriptum.github.io/binarydepot-catalog/entries/bmw-advanced-tools.json",
-    "DisplayName": "BMW Advanced Tools",
-    "Name": "BMW_Advanced_Tools_1.0.0_Install.msi",
-    "Hash": "85288998C09D1ABFCAC4BDD9BDC8AF539F08A16CB1F6931AB60D3C99231289DC",
-    "HashAlgorithm": "SHA256",
-    "Size": 232517916,
-    "Uploaded": 1755746108,
-    "Author": "Guillaume <guillaumeplante.qc@gmail.com>",
-    "Details": "BMW Standard Tools (also known as BMW Advanced Tools), a powerful suite of diagnostic and coding utilities used primarily with E-series BMWs.",
-    "Licence": "MIT",
-    "Version": "1.0.0",
-    "Encrypted": true,
-    "EncryptionAlgorithm": "AES256",
-    "NumParts": 40,
-    "TotalDownloads": 2397,
-    "Tags": "Latest|Cars,BMW",
-    "Category": "Hobby",
-    "Score": "89%",
+  "PackageId": "47110b44-0369-4454-8329-72af4c01c4e1",
+  "IndexUrl": "http://arsscriptum.github.io/binarydepot-catalog/entries/bmw-advanced-tools.json",
+  "DisplayName": "BMW Advanced Tools",
+  "Name": "BMW_Advanced_Tools_1.0.0_Install.msi",
+  "Hash": "FAFD754D9D3ACED2E792EA0FCA44B999B55F5E418581F9E7214D183D7FF3263F",
+  "HashAlgorithm": "SHA256",
+  "Size": 232517916,
+  "Uploaded": 1755746108,
+  "Author": "Guillaume <guillaumeplante.qc@gmail.com>",
+  "Details": "BMW Standard Tools (also known as BMW Advanced Tools), a powerful suite of diagnostic and coding utilities used primarily with E-series BMWs.",
+  "Licence": "MIT",
+  "Version": "1.0.0",
+  "Encrypted": true,
+  "EncryptionAlgorithm": "AES256",
+  "NumParts": 40,
+  "TotalDownloads": 2397,
+  "Tags": "Latest|Cars,BMW",
+  "Category": "Hobby",
+  "Score": "89%",
   "Parts": [
     {
       "Name": "project_source0001.cpp",
-      "Hash": "7B254919D85EE8C5C32B073142985ABEC903C0F6959A15901A020EA081FEA858",
+      "Hash": "FAFD754D9D3ACED2E792EA0FCA44B999B55F5E418581F9E7214D183D7FF3263F",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -38,7 +38,7 @@
     },
     {
       "Name": "project_source0002.cpp",
-      "Hash": "B098BF572CC12DD28F54823BC78DF4B57220CAE4F6F891BD3157F2028E94C325",
+      "Hash": "0AAC95C2774612329DE3DF0A7B7600231894FFA78392D789A139B2F0EE98FC56",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -55,7 +55,7 @@
     },
     {
       "Name": "project_source0003.cpp",
-      "Hash": "983D86FB45014E1F4874FF6EAE7AEFE7D7CFF7737956E29A8AAFED19D5893903",
+      "Hash": "3E771E946BCC795E5FD2DEADC17C9909C0EA121D7B236AE6BAFC81945BD0D3A7",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -72,7 +72,7 @@
     },
     {
       "Name": "project_source0004.cpp",
-      "Hash": "749BDBC71935B630A8520F63591741971A7B63B64AC6CF18449C774F96BFCC69",
+      "Hash": "7FD3FF14F72A6D35F13DCC49BFECCF3A75BACC3807009F7238894E4A12561027",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -89,7 +89,7 @@
     },
     {
       "Name": "project_source0005.cpp",
-      "Hash": "2670704E6151DF100DEBAE7185EB6401CDBDEACE3735D5B5254037A2301C375D",
+      "Hash": "8BC170DBA0FAAA3C6C59D7183232DCC4DC7629415E360030F30A51DF21B8041E",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -106,7 +106,7 @@
     },
     {
       "Name": "project_source0006.cpp",
-      "Hash": "277C9A99685BAC3820D066B213717AEB71324CE4B3F401FEEE64622C210F4353",
+      "Hash": "67C5DE2B408F760729F5CAA36F4BFE80A66089692CF0FACE33D45A7502572B0F",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -123,7 +123,7 @@
     },
     {
       "Name": "project_source0007.cpp",
-      "Hash": "A87883F25ACF5947F89F03A221D40BB3067D89DA69CBC176E59C86C2259C842E",
+      "Hash": "5AD65252FF8DF00C6EB396ED767C22A78A5F7631463491027876E8FD6099BE99",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -140,7 +140,7 @@
     },
     {
       "Name": "project_source0008.cpp",
-      "Hash": "64D3C148B11B33D03D9F895166D4BD3127B968D26D6D27305A11F68D5176C8C9",
+      "Hash": "A88B7F795B53EE3CEB2D76A6A7AA21C17D5BC82512C7857E3B45794C66402C3F",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -157,7 +157,7 @@
     },
     {
       "Name": "project_source0009.cpp",
-      "Hash": "6EB63D273AEE03090BFFEDAF427A9D4AA845A452F80993071BAD8F51E7A3E620",
+      "Hash": "8D9BC448D8FEBAA520E1A460C3092170EAC8A8983952BA27044A8A1C09BEC200",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -174,7 +174,7 @@
     },
     {
       "Name": "project_source0010.cpp",
-      "Hash": "A28443DFBC260085A6C829D39B9B948FD5EC4861A931D3645DB544BC10F4F9E7",
+      "Hash": "81417AFC068D16D2BD1902DEB182F8D6804EA7E9F2A4F0B85804A437A4ED7C3F",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -191,7 +191,7 @@
     },
     {
       "Name": "project_source0011.cpp",
-      "Hash": "A9BAA570B10860467FE56B8136B9A1F0917D63CBF21B51EA06BE28F95ACE5E56",
+      "Hash": "98CBB5F709CFFF0A28F4165A2AA3E7B86F1E76C32B26A71579A8F322927E20D9",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -208,7 +208,7 @@
     },
     {
       "Name": "project_source0012.cpp",
-      "Hash": "8D12F95747F27B25187868C54EE420E852E9DDD99C58D2074D22083EF06A7A49",
+      "Hash": "95AB269FEFFEFB6A541120C2400DA057A540A254ED43FAA93E979D247762F409",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -225,7 +225,7 @@
     },
     {
       "Name": "project_source0013.cpp",
-      "Hash": "D985E92E26BC52960EFD5F768A8A8D5B1E91100C4944A3BB852AB113CB490080",
+      "Hash": "EFA7A49043B8058BD34C857920186049CA105BDC52642A77768967C53F11BF9F",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -242,7 +242,7 @@
     },
     {
       "Name": "project_source0014.cpp",
-      "Hash": "663E9727AB5E4BAA13C22F012333F57338CE078BB4A513DC2BF48A0E35378324",
+      "Hash": "34757CD446F41BAC2F6320EE6175C5FC0886316D06EC6ED1BE8943A16ED67367",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -259,7 +259,7 @@
     },
     {
       "Name": "project_source0015.cpp",
-      "Hash": "38FEDF7B28AA123232514894A74EFF60F495A01F1D6110F5D131EEED38C67CF9",
+      "Hash": "6C6092883AF8D908C67E310CC07EFDE22E51154AA7FC346AB48FD0AF68A02E94",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -276,7 +276,7 @@
     },
     {
       "Name": "project_source0016.cpp",
-      "Hash": "AF1E5D15E5D7C43E8F5CC9844D50BCA6276F4FC58802FBB78B2F7F1915022431",
+      "Hash": "E80F3CAA955F4A7F3AA7850FF60F9536E17387AE621A24ECFD6FF084A1CA1EA2",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -293,7 +293,7 @@
     },
     {
       "Name": "project_source0017.cpp",
-      "Hash": "9C685350D423344A2506A45E54343A70FC4A448D390E485ECAF2EB824FA6050E",
+      "Hash": "D3522A308BC37109A496EB929CAF9D42C4F5A171C5EB9475ACFE22DB529E9D29",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -310,7 +310,7 @@
     },
     {
       "Name": "project_source0018.cpp",
-      "Hash": "835178CA651AFF26224761EB22F2D8BD587B6118BD1B0B95BADB1227F8B060C9",
+      "Hash": "93A0F466E5C6C796E15553E0EB0063482B749FCFCCC69BC451761BA2016F5065",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -327,7 +327,7 @@
     },
     {
       "Name": "project_source0019.cpp",
-      "Hash": "032C5CBA7A303CA451523BC4ABECA193DE5A93D12EA4018BF14CBF4BAA011817",
+      "Hash": "40D7C9D5471A47D9D4CF8292DE89FD01825B4F8F3F4C413E18C46D2B9A0A26BD",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -344,7 +344,7 @@
     },
     {
       "Name": "project_source0020.cpp",
-      "Hash": "2BC79EA1F4CD05C59F35FCC5FEF60AE73909DCAFCEE39F9C8DA80AC2EF170BF2",
+      "Hash": "0862A6B7AACA3C2C56572ABDDDE76ECCE49FC7C6B3E6E9C58092F9060C619631",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -361,7 +361,7 @@
     },
     {
       "Name": "project_source0021.cpp",
-      "Hash": "811171023BE2A12612572249169DE88C262AC195C34C8323D53CE59392D0424F",
+      "Hash": "FA85A91B8AA04BA4A60FE67A313ACB92BC786EE840939A18538A7AA86DEEAD8F",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -378,7 +378,7 @@
     },
     {
       "Name": "project_source0022.cpp",
-      "Hash": "5836E29AE1955E555A426C8CDD224826E6F9FDDA9FB13E4501EE760600B46A45",
+      "Hash": "77A11550B342EDC5E8C2EB7EF827817C9E13BD03EE187F4BAAD5D21882CB7EAE",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -395,7 +395,7 @@
     },
     {
       "Name": "project_source0023.cpp",
-      "Hash": "074831D489394B9FDB765E1250BD5752A86CB7FAF0640EFC865E12849EBD1633",
+      "Hash": "75A7DAE5F31D6F02F665C94432AE6EE37C1E8F93A7B036805C7394AF5158193E",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -412,7 +412,7 @@
     },
     {
       "Name": "project_source0024.cpp",
-      "Hash": "825BCFAAFAC0F4388F563DE0D344F7DD7EE7A1B087DF7FA961EA8A3F5EE862E2",
+      "Hash": "EC208762284DDD0F8999817F9E6C85942753FBE319BD0CE0EBA519D9D6E34689",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -429,7 +429,7 @@
     },
     {
       "Name": "project_source0025.cpp",
-      "Hash": "1B4E1CADCA5CB3E6822EE33E9EC583A92BDF31FDDA095846C4FDC79C91A9D963",
+      "Hash": "6408285AA6AB80CBFB9E982DA7278636FEBA528D6C55D163601F7A069383E2E5",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -446,7 +446,7 @@
     },
     {
       "Name": "project_source0026.cpp",
-      "Hash": "6F48191E63D065EC73A5AFA5F246D0775FC1C6D6521BD3F98F77D2D492E00C56",
+      "Hash": "36F990883DDF940E009AE5D21A8B0A18B3B342AD7982EE453AB4B379A8EC1562",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -463,7 +463,7 @@
     },
     {
       "Name": "project_source0027.cpp",
-      "Hash": "EEB9ABE5757DA7FF58D4D49EA6AB656A03A4BFC3BA6CE610E6769B1FF28FA05A",
+      "Hash": "545F70345E689E62B35CB5D587C0237AD2345FFEF01A8D6EB87C19472ABF5E3E",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -480,7 +480,7 @@
     },
     {
       "Name": "project_source0028.cpp",
-      "Hash": "62099C2F000A44D6CC3D7B00630E0344A34DB1E9ED49AD509FCCD5278F754992",
+      "Hash": "1CE3B2D8888129CED27ADB90C2FECC6FF07E17461FB29226A0E44C68C9F0CE1B",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -497,7 +497,7 @@
     },
     {
       "Name": "project_source0029.cpp",
-      "Hash": "E2087CA4DC8977876DD6CB2A7D7149B702B49FACFE867A5B65523B9CAA1C5991",
+      "Hash": "3860A054C276AAAAF06FF4CC04F7B4A8B5DC2EDB13C6190B7EB58D41E81D1DA7",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -514,7 +514,7 @@
     },
     {
       "Name": "project_source0030.cpp",
-      "Hash": "DDF1469FA72ED7CEB1712B86960ED007E9BF3EE61966DD7CDA9B6D67407A1E21",
+      "Hash": "FAA4F487F6261E7ACC0FFCCED4328FACB3E2D4B08C2AA792A7FEC1857DBBE555",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -531,7 +531,7 @@
     },
     {
       "Name": "project_source0031.cpp",
-      "Hash": "B4F675006E3FA6DE215B04F1D727859F95546685A0D7BE5A6F3F273FEBAA9BAC",
+      "Hash": "4CECE440690F1669FBABF7E61A6EC22052CC9CC5F31507692E89DB73C6C8F89C",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -548,7 +548,7 @@
     },
     {
       "Name": "project_source0032.cpp",
-      "Hash": "E9B9015F5091CBE3C1A74AC675C8561B0D7B2F59484E0F878ABFF938C08B7DDE",
+      "Hash": "757A5AA99295698AE7B05114638E2B9D145E6E6FFF972FCF4CDB78A639994D8D",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -565,7 +565,7 @@
     },
     {
       "Name": "project_source0033.cpp",
-      "Hash": "A8DFEC1174CC03B7A44BFA85DDBFA4E0698390F17BB56566329D5525FA4A84E9",
+      "Hash": "C4B22D8A36E12FF7C94AF4D59AD0976555F252DD3FCF4731B34FEC7311860BB5",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -582,7 +582,7 @@
     },
     {
       "Name": "project_source0034.cpp",
-      "Hash": "AA5B29CDEED4925762AD026F4F14547889785EF977916E5073F5E12642F5D5B6",
+      "Hash": "B5E68834C12FA6A3772EFE7957FA7C8B67234B81EB1B32FDC4258795D7B6738C",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -599,7 +599,7 @@
     },
     {
       "Name": "project_source0035.cpp",
-      "Hash": "B731FC22A0BDF778DC85CF02618A66CF58ED543E241DF524354D4314780215D2",
+      "Hash": "D785B3B3337B391FB171DD888EB3253D27E12E71272FDF23405021286FCE7B5A",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -616,7 +616,7 @@
     },
     {
       "Name": "project_source0036.cpp",
-      "Hash": "CEDA9D212F3CD69AA8C65CD87D16D59C0EE8A93A9A64D6166287C838CBBB5E8D",
+      "Hash": "0FE557B7381111AB2E65CEBC14373FB7213A1A7E36960D5A03A898C993A3C9CF",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -633,7 +633,7 @@
     },
     {
       "Name": "project_source0037.cpp",
-      "Hash": "6D595C493E89CFC3C45C18232AE3A060C6316AF41B5D26C785F7F88AFBC89220",
+      "Hash": "AA74BC5849DE565129F5FB42D5F629697C427E1578A1D8A94ED45F9FC7BF346A",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -650,7 +650,7 @@
     },
     {
       "Name": "project_source0038.cpp",
-      "Hash": "CAD875F2187864C4618D7C9DF7C6781A2150451A9603D6B946B5BA9275AC681D",
+      "Hash": "445D5555213E864FE73D754773FB137E9A285DE22B6B591B800EDE5EBD1A3889",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -667,7 +667,7 @@
     },
     {
       "Name": "project_source0039.cpp",
-      "Hash": "85AA6B64F0227919576AF41AEA19D210364F34EE31F482BF0092D0A4627D2EC5",
+      "Hash": "DB2A6603A4753F2AF7F9EB4DB133DCCEBA2DB6DA4DE9A31653CBCB6D754F1F75",
       "HashAlgorithm": "SHA256",
       "Size": 5242940,
       "Uploaded": 1755746108,
@@ -684,7 +684,7 @@
     },
     {
       "Name": "project_source0040.cpp",
-      "Hash": "2C4C6DE5779D002D217A7E9FCBE57110D7940CF48E0266C1D29EF4BD743D14EB",
+      "Hash": "6C091B5AEA7FFAB1047521478B7BC10298094FEAAC98731B8757944F52F141F4",
       "HashAlgorithm": "SHA256",
       "Size": 4558620,
       "Uploaded": 1755746108,
